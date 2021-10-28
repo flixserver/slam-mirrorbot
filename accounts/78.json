@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flixserver-330410",
+  "private_key_id": "ccf2781abab0fc28a03b2acf4e2b379ba7f97c58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDarJD42+Igq5dR\nMG+VUQL9nLOWrBXvMwe4+gyqEs4Fx21PPPwAi7VpMVvUIPZ4dzymYqdKTTd1FjMy\ncB/9+ksNHbvyjkzGAv0MV9YqTFNiWgmGFsN0F0EZGgs95ZgYwh4YrQbUnUmSxUSe\nms7SspZthRheAHhFeRlcqOXudTzOjLLvmD7uoXNSfnXwuDobwZiak0OY48o0omyj\nRTWnrYPRDsIQo3liGwVUxTqAPU7FR85MXLMZYcis0PeWCj89SFg3m/sNR44l0dHK\nrhKD8UxarccZU1P5mYykW10RCjvtIETlNTvZL4ZQoQYnGLFn7gg3bDxYx+fHfGes\nMhJJj9ytAgMBAAECggEADFxRy4deVltsr72tqQKNyTko25z5lm5LgvS7b4ellqUJ\ntD9tvTgodnxARRLh67hNuNf9vdD0kA1Dspes70XNJT4niBPsGgtEM4TpibWLxxTw\n0eAKh07jMqCKvyJxwQCEBAAP0Ufcx0uYT+DPTRCkOSebU4DyS3cHbHntmVeOKtyl\nZKhdU/Ys/EaunuAROxi2FD+HUx4zPJRMeTX9VvA6R3JroPOcwm5jrti2R0gobpDV\n8/m74tgsvFsXgTzUFomIydt3Pca9jL0aekXXbmW4KGTBOB+1J/yXd6KgjPxVPkYV\n3IUUrYp0J56ga5SX9Zje/KZqkZjqzuxjIC8GDD1KbwKBgQDy/D2G2l9y0KC0N3N+\nSLj4AVbwjWPmiThGptqsWOasemquToD3cmJ+EyqiU5kj9KrT4hYF8zxyq6cftHkX\nLyyJTYRESx3F4v9+iOP+kgoeuz/fW4lMfNj7C4054hTybWEAokwK1e1pbkE0BKZT\ncmTgrk+uu7VvVYEdl133M8AfLwKBgQDmYvnVqwuEJ+oQiL5izjwiEeLCVCCad8po\nf8DGrZWWtouKJPBA58xI1ohgaC4EaVoDlalDsGvIeaApMfKkLV7IfsE41Qe5t0DP\nNKMoWVfQ12A/yin/Nz/3nW3B6P9KocI6lFIdK9BaLOtXY7cxaF2cxWC+rWHGcQAo\nbBkXXrGq4wKBgEg5YbBryGNAUARBVzr6MsDE5SqrXD5yGyAlCGqiIi6yVHNrMjpa\n7Zu75rhJUQO2/e/tC87I9fa/vvVVl4ikpQBK4j3KdhcT2g2qctqAXjG0RtAFTVJG\n6df1Hw1NfhxxFpwxoZi27dKgyxDDMQ0su39tUJIHiW6GY9J/45ZO85RRAoGABzIq\nOYlJJ8yTXAbZY36rlCjY21cDWa/KK69p1wrO9FEpVJxIwM48rD2/LruyTEL6I8iF\n6+5Tv4RFA2Ri/svH/R0wbdUBk8RsisxLGFSKEKTZhcSLwUP5hINvTTI43xzkUy4U\nzoJy1I44n5cmvq1S1zW3Ct2hgzA+YATYV8mGZR8CgYAI77BScIVZRtFhYTO7RWfo\nX40buBG2nYZPI+PfrLZnyt/aM5v1WA7KMz2DxDpR6bC+kfIq4lx/+YzpH/bHceV9\nHzct1+HQGNk7hhV5Dj1wzwRLf9Qb60j6sAe1VcZXHPhRTP4+N/axniVW49CdeL3H\n7GRk0mM0iX3oWDk7O4l3sQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-rtgjiawlu5nc8tjz5wrqdslrhp@flixserver-330410.iam.gserviceaccount.com",
+  "client_id": "102727329391525103225",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-rtgjiawlu5nc8tjz5wrqdslrhp%40flixserver-330410.iam.gserviceaccount.com"
+}
